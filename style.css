@@ -3,6 +3,11 @@ body {
   font-family: Arial, sans-serif;
   color: #191970;
 }
+body {
+  background-collor: #ffff99;
+  font-family: Arial, sans-serif;
+  color: #191970;
+}
 
 .kartu-profil {
   width: 300px;
